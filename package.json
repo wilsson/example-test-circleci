@@ -1,0 +1,23 @@
+{
+  "name": "example-test-circleci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsson/example-test-circleci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsson/example-test-circleci/issues"
+  },
+  "homepage": "https://github.com/wilsson/example-test-circleci#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
